@@ -8,7 +8,7 @@ public class UdpClient
 		try
 		{
 			//for sending to server
-			byte[] buf=new byte[10000];
+			byte[] buf=new byte[1000];
 			sock=new DatagramSocket(555);
 			System.out.print("Enter the input");
 			String str=new BufferedReader(new InputStreamReader(System.in)).readLine();
