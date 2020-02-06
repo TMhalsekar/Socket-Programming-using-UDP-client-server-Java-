@@ -1,5 +1,5 @@
 # Socket-Programming-using-UDP-client-server-Java-
-Socket programming using the User Datagram Protocol(UDP) in Java
+Socket programming using User Datagram Protocol(UDP) in Java
 
 Execution steps:
 Part 1:
